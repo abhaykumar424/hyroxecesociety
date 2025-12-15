@@ -41,7 +41,7 @@ function Aboutus() {
             <br />
             Abhay Kumar
             <br />
-            CP & Algorithm Lead
+            twitter - <a href="https://x.com/abhaykumar492" target="_blan">abhaykumar492</a>
             <br />
           </p>
         </div>

@@ -74,6 +74,116 @@ export default function Resources() {
             </button>
           </a>
         </div>
+
+        <div className="border border-white/30 rounded-2xl p-6 shadow-[0_0_20px_rgba(255,255,255,0.15)] bg-white/5 backdrop-blur-lg">
+          <img
+            src="https://i.ytimg.com/vi/kTOx1GnlUco/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCeJbROgUKRcgtoonxdWTzbMt7EKg"
+            className="p-5"
+          />
+
+          <h4 className="text-xl font-semibold mb-2">
+            Chirag Jain C++ IIT (ISM) Level - 1
+          </h4>
+
+          <p className="text-gray-300 text-sm leading-relaxed mb-4">
+            This playlist covers the entire C++ language from basics to
+            advanced, all in one structured flow. No need to roam here and
+            there—follow the theory step by step and keep practicing problems
+            regularly on Codeforces to build strong problem-solving skills. Stay
+            consistent, practice daily, and you’ll gain complete confidence in
+            C++.
+          </p>
+
+          <a
+            href="https://www.youtube.com/playlist?list=PL40a3hTWsqXAw6cnRALe06QzPfeqnOBo6"
+            target="_blank"
+          >
+            <button className="px-4 py-2 rounded-xl bg-white text-[#5E3AFF] font-semibold hover:bg-white/80 transition">
+              Go to site
+            </button>
+          </a>
+        </div>
+
+        <div className="border border-white/30 rounded-2xl p-6 shadow-[0_0_20px_rgba(255,255,255,0.15)] bg-white/5 backdrop-blur-lg">
+          <img
+            src="https://i.ytimg.com/vi/WPEnHfRU6n8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJzmHBov6mNteDu-6dNiNWBUmfNQ"
+            className="p-5"
+          />
+
+          <h4 className="text-xl font-semibold mb-2">
+            Chirag Jain C++ IIT (ISM) Level - 2
+          </h4>
+
+          <p className="text-gray-300 text-sm leading-relaxed mb-4">
+            Level 1 Complete? Time to Go Deeper If you’ve completed Level 1,
+            it’s time to conquer deeper concepts. Strengthen your foundations,
+            explore advanced topics, and keep solving problems consistently to
+            level up your skills.
+          </p>
+
+          <a
+            href="https://www.youtube.com/playlist?list=PL40a3hTWsqXBFAKwLv-02tsKOLCud6hvf"
+            target="_blank"
+          >
+            <button className="px-4 py-2 rounded-xl bg-white text-[#5E3AFF] font-semibold hover:bg-white/80 transition">
+              Go to site
+            </button>
+          </a>
+        </div>
+
+        <div className="border border-white/30 rounded-2xl p-6 shadow-[0_0_20px_rgba(255,255,255,0.15)] bg-white/5 backdrop-blur-lg">
+          <img
+            src="https://i.ytimg.com/vi/IPl_1V1mX-0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHTTnqn1tDJk4UB5L9lBJuDza38g"
+            className="p-5"
+          />
+
+          <h4 className="text-xl font-semibold mb-2">
+            Codeforces Contest Solutions
+          </h4>
+
+          <p className="text-gray-300 text-sm leading-relaxed mb-4">
+            The Eliminators playlist is designed to help you analyze problems
+            after a contest ends. It allows you to cross-check your solutions,
+            understand correct approaches, and clear doubts if you were stuck
+            during the contest. By reviewing these explanations, you can
+            identify mistakes, learn efficient strategies, and steadily improve
+            your performance in future contests.
+          </p>
+
+          <a
+            href="https://www.youtube.com/playlist?list=PLcXpkI9A-RZLUfBSNp-YQBCOezZKbDSgB"
+            target="_blank"
+          >
+            <button className="px-4 py-2 rounded-xl bg-white text-[#5E3AFF] font-semibold hover:bg-white/80 transition">
+              Go to site
+            </button>
+          </a>
+        </div>
+
+        <div className="border border-white/30 rounded-2xl p-6 shadow-[0_0_20px_rgba(255,255,255,0.15)] bg-white/5 backdrop-blur-lg">
+          <img
+            src="https://i.ytimg.com/vi/nqowUJzG-iM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd9n5Wzq3xPnENo_vVrXKEpi2p5A"
+            className="p-5"
+          />
+
+          <h4 className="text-xl font-semibold mb-2">
+            Pen & Paper Round Preparation
+          </h4>
+
+          <p className="text-gray-300 text-sm leading-relaxed mb-4">
+            Aditya Verma’s content helps you build strong logic and
+            problem-solving skills, preparing you confidently for pen-and-paper
+            rounds. His step-by-step explanations improve clarity of thought and
+            answer presentation. Perfect for interviews, written tests, and core
+            concept strengthening.
+          </p>
+
+          <a href="https://www.youtube.com/@TheAdityaVerma" target="_blank">
+            <button className="px-4 py-2 rounded-xl bg-white text-[#5E3AFF] font-semibold hover:bg-white/80 transition">
+              Go to site
+            </button>
+          </a>
+        </div>
       </div>
 
       <p className="text-xs text-gray-400 text-center mt-12 max-w-3xl mx-auto leading-relaxed">
