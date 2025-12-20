@@ -162,6 +162,31 @@ export default function Resources() {
 
         <div className="border border-white/30 rounded-2xl p-6 shadow-[0_0_20px_rgba(255,255,255,0.15)] bg-white/5 backdrop-blur-lg">
           <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1dZVFHKYlLA9D0JeV0MbGR9mvjb8I9X1L8g&s"
+            className="p-5"
+          />
+
+          <h4 className="text-xl font-semibold mb-2">Striver CP Sheet</h4>
+
+          <p className="text-gray-300 text-sm leading-relaxed mb-4">
+            The Striver CP Cheat Sheet is designed to help you revise and apply
+            key competitive programming concepts efficiently. It allows you to
+            quickly recall important formulas, patterns, and approaches while
+            solving problems.
+          </p>
+
+          <a
+            href="https://takeuforward.org/competitive-programming/strivers-cp-sheet"
+            target="_blank"
+          >
+            <button className="px-4 py-2 rounded-xl bg-white text-[#5E3AFF] font-semibold hover:bg-white/80 transition">
+              Go to site
+            </button>
+          </a>
+        </div>
+
+        <div className="border border-white/30 rounded-2xl p-6 shadow-[0_0_20px_rgba(255,255,255,0.15)] bg-white/5 backdrop-blur-lg">
+          <img
             src="https://i.ytimg.com/vi/nqowUJzG-iM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd9n5Wzq3xPnENo_vVrXKEpi2p5A"
             className="p-5"
           />
