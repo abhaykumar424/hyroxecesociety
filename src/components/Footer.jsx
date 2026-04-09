@@ -63,7 +63,7 @@ function Footer() {
         <div className="flex flex-col gap-2 w-full md:w-1/2 md:text-right">
           <span className="text-gray-300 font-semibold">Address</span>
           <p className="text-gray-400 leading-tight">
-            ECE Society, B.I.T Sindri, Dhanbad,
+            ECE Society, BIT Sindri, Dhanbad,
             <br />
             Jharkhand, India
           </p>
