@@ -40,7 +40,7 @@ function Home() {
           {/* Explore Resources */}
           <Link to="/resources">
             <button className="w-full sm:w-auto border border-white text-white font-semibold px-6 py-2 rounded-xl transition duration-200 hover:bg-white hover:text-[#5E3AFF]">
-              Explore Resources
+              Machine Learning
             </button>
           </Link>
         </div>

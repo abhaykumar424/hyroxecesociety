@@ -32,7 +32,7 @@ function App() {
               to="/resources"
               className="px-6 py-2 text-3xl hover:bg-[#382866] rounded-lg"
             >
-              RESOURCES
+              Machine Learning
             </Link>
           </nav>
 
@@ -60,7 +60,7 @@ function App() {
               onClick={() => setOpen(false)}
               className="py-1 block"
             >
-              RESOURCES
+              MACHINE LEARNING
             </Link>
           </div>
         )}

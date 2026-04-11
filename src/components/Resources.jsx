@@ -209,6 +209,31 @@ export default function Resources() {
             </button>
           </a>
         </div>
+
+        <div className="border border-white/30 rounded-2xl p-6 shadow-[0_0_20px_rgba(255,255,255,0.15)] bg-white/5 backdrop-blur-lg">
+          <img
+            src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737567904804/e1f89c98-9264-40e4-8183-f230b2bac811.png"
+            className="p-5"
+          />
+
+          <h4 className="text-xl font-semibold mb-2">Neetcode - 250</h4>
+
+          <p className="text-gray-300 text-sm leading-relaxed mb-4">
+            The NeetCode roadmap is designed to help you master DSA for coding
+            interviews efficiently. It provides a structured set of problems
+            with clear explanations, helping you build strong fundamentals and
+            improve problem-solving skills.
+          </p>
+
+          <a
+            href="https://neetcode.io/practice/practice/neetcode250"
+            target="_blank"
+          >
+            <button className="px-4 py-2 rounded-xl bg-white text-[#5E3AFF] font-semibold hover:bg-white/80 transition">
+              Go to site
+            </button>
+          </a>
+        </div>
       </div>
 
       <p className="text-xs text-gray-400 text-center mt-12 max-w-3xl mx-auto leading-relaxed">
